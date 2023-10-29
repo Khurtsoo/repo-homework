@@ -11,3 +11,53 @@ li {
  img {
  	display: inline-block;
  }
+
+ .style {
+ 	display: inline-block;
+ 	margin-left: 40px;
+ }
+
+ .something {
+ 	width: 1660px;
+ 	height: 735px;
+ 	background: #E7E7E7;
+ 	margin-top: 50px;
+ 	display: inline-block;
+ }
+ .something div {
+ 	display: inline-block;
+ 	vertical-align: middle;
+ }
+ .something h1 {
+ 	width: 474px;
+ 	height: 34px;
+ 	color: #4E6FAE;
+  	padding: 30px;
+ }
+ .address {
+ 	color: #7E8898;
+ 	display: inline-block;
+ 	top left: 10p;
+ }
+ .currentaddress {
+ 	margin:left 10px;
+ 	color: #3F4145;
+ 	top left: inline-block;
+ }
+ .photo {
+ 	width: 900px;
+ 	height: 549px;
+ 	display: inline-block;
+ 	vertical-align: middle;
+ }
+
+ .line {
+	width: 5px;
+	height: 40px;
+	background: black;
+	display: inline-block;
+	margin-top: 100px;
+}
+.phot {
+	margin-top: 100px;
+}
