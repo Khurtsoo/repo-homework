@@ -30,23 +30,23 @@ li {
 	margin-right: 70px;
 	margin-top: 40px;
 	color: #5012D5;
- 	}
- 	.word {
- 		width: 200px;
- 		height: 34px;
- 		display: inline-block;
- 		margin-top: 40px;
- 		color: #4E6FAE;
- 	}
- 	.letter {
- 		display: inline-block;
- 		margin-top: 40px;
- 		width: 484px;
-		height: 34px;
-		top: 255px;
-		left: 1070px;
-		color: #4E6FAE;
- 	}
+ }
+ .word {
+ 	width: 200px;
+ 	height: 34px;
+ 	display: inline-block;
+ 	margin-top: 40px;
+ 	color: #4E6FAE;
+ }
+ .letter {
+ 	display: inline-block;
+ 	margin-top: 40px;
+ 	width: 484px;
+	height: 34px;
+	top: 255px;
+	left: 1070px;
+	color: #4E6FAE;
+ }
 
  .container {
  	width: 500px;
