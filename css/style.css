@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@1&display=swap');
+@import url("//cdn.web-fonts.ge/fonts/alk-rounded-nusx-med/css/alk-rounded-nusx-med.min.css");
 
 li {
  	color: #8D81FF;
@@ -36,8 +36,7 @@ li {
 	width: 788px;
 	color: #4E6FAE ;
 	display: inline-block;
-	font-family: 'Alumni Sans Collegiate One', sans-serif;
-
+	font-family: "ALK Rounded Nusx Med", sans-serif;
 }
 img {
 	display: inline-block ;
