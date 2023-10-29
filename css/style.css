@@ -43,3 +43,13 @@ img {
 	margin-left: 30px;
 	display: inline-block;
 }
+.line {
+	width: 5px;
+	height: 40px;
+	background: black;
+	display: inline-block;
+	margin-top: 100px;
+}
+.phot {
+	margin-top: 100px;
+}
