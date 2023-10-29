@@ -6,3 +6,38 @@ li {
  .best {
  	color: #4E6FAE;
  }
+
+.date {
+ 	width: 50px;
+ 	height: 50px;
+ 	background: #5012D5;
+ 	color: #84FF81;
+ 	margin-top: 30px;
+ 	margin-left: 10px;
+ 	padding: 15px 10px 0px 10px;
+ }
+ .month {
+ 	margin-top: 20px;
+ 	front size: 24px;
+ 	color: #8D81FF;
+ 	margin-bottom: 20px;
+ }
+.header{
+	font size: 20px;
+	color: #4E6FAE;
+	margin-bottom: 20px;
+}
+
+.secteon-text {
+	margin-left: 40px;
+	width: 788px;
+	color: #4E6FAE ;
+	display: inline-block;
+}
+img {
+	display: inline-block ;
+}
+.style {
+	margin-left: 30px;
+	display: inline-block;
+}
