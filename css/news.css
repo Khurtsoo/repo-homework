@@ -1,3 +1,6 @@
+@import url("//cdn.web-fonts.ge/fonts/alk-life/css/alk-life.min.css");
+
+
 li {
  	color: #8D81FF;
  	display: inline-block;
@@ -72,6 +75,7 @@ li {
 	display: inline-block;
 	width: 335px;
 	margin-left: 30px;
+	font-family: "ALK Life", sans-serif;
 }
 
 .box {
@@ -94,6 +98,7 @@ li {
 	display: inline-block;
 	width: 335px;
 	margin-left: 30px;
+	font-family: "ALK Life", sans-serif;
 }
 
 
