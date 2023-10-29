@@ -1,3 +1,6 @@
+@import url("//cdn.web-fonts.ge/fonts/alkdots/css/alkdots.min.css");
+
+
 li {
  	color: #8D81FF;
  	display: inline-block;
@@ -23,6 +26,8 @@ li {
  	background: #E7E7E7;
  	margin-top: 50px;
  	display: inline-block;
+ 	font-family: "ALKDots", sans-serif;
+
  }
  .something div {
  	display: inline-block;
@@ -40,9 +45,9 @@ li {
  	top left: 10p;
  }
  .currentaddress {
- 	margin:left 10px;
+ 	margin: inline-block;
  	color: #3F4145;
- 	top left: inline-block;
+ 	top left: left 10px;
  }
  .photo {
  	width: 900px;
