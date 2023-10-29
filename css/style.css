@@ -1,6 +1,7 @@
 li {
  	color: #8D81FF;
  	display: inline-block;
+ 	border-top: 20px;
  }
 
  .best {
@@ -36,6 +37,7 @@ li {
 }
 img {
 	display: inline-block ;
+	border-top: 20px;
 }
 .style {
 	margin-left: 30px;
