@@ -11,6 +11,8 @@ li {
 
  img {
  	display: inline-block;
+ }
+ .pc {
  	width: 70px;
  }
 
